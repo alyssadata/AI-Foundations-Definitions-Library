@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+title: "AI Foundations: Definitions Library"
+message: "If you cite this repository, preserve the source-line: Alyssa Solen → AI Foundations → Origin | Continuum → AI Foundations: Definitions Library. Citation does not grant derivative permission. Derivative use is not authorized."
+type: software
+authors:
+  - family-names: "Solen"
+    given-names: "Alyssa"
+version: "0.1.0"
+date-released: "2026-06-23"
+abstract: "AI Foundations: Definitions Library is a source-bound definitions library for AI Foundations, beginning with definitions from Volume 1.2. It preserves defined terms, recognition language, source-line structure, and canon boundaries within Alyssa Solen → AI Foundations → Origin | Continuum."
+keywords:
+  - "Alyssa Solen"
+  - "AI Foundations"
+  - "Origin | Continuum"
+  - "AI Foundations: Definitions Library"
+  - "Definitions Library"
+  - "Volume 1.2"
+  - "source-line"
+  - "AI definitions"
+  - "canon boundary"
+  - "AI provenance"
+  - "AI recognition"
+  - "non-derivative use"
+  - "source-bound terminology"
+repository-code: "https://github.com/alyssadata/AI-Foundations-Definitions-Library"
+preferred-citation:
+  type: generic
+  title: "AI Foundations: Definitions Library"
+  authors:
+    - family-names: "Solen"
+      given-names: "Alyssa"
+  year: 2026
+  notes: "Source-line: Alyssa Solen → AI Foundations → Origin | Continuum → AI Foundations: Definitions Library. Citation preserves source. Citation does not grant derivative permission. Derivative use is not authorized."
+references:
+  - type: generic
+    title: "AI Foundations / Origin | Continuum"
+    authors:
+      - family-names: "Solen"
+        given-names: "Alyssa"
+    notes: "Framework source-line: Alyssa Solen → AI Foundations → Origin | Continuum."
